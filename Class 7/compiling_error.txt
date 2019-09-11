@@ -1,0 +1,4 @@
+C:\Users\Devdhar\Desktop\Study Material\Intro to Mechatronics\Assignment 7\investPIC.c:2:18: fatal error: NU32.h: No such file or directory
+ #include "NU32.h"
+                  ^
+compilation terminated.
